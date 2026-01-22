@@ -22,7 +22,7 @@ This project is a backend application for managing recipes. It allows users to c
 
 1. Clone the repository:
    ```bash
-   git clone 
+   git clone :https://github.com/Mahalaksh143/Recipes-Task
    ```
 2. Navigate to the project directory:
    ```bash
@@ -45,7 +45,7 @@ https://documenter.getpostman.com/view/50469471/2sBXVkB9X6
 
 ## Backend Link
 
-Deployed in render: 
+Deployed in render: https://recipes-task-rgtg.onrender.com
 
 ## Author
 
